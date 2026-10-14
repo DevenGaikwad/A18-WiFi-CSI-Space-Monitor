@@ -1,0 +1,45 @@
+{
+  "description": "Exploratory CSI amplitude and temporal features only; RSSI mean and std removed; same fixed splits and RF parameters; baseline model retained",
+  "validation": {
+    "accuracy": 0.6282051282051282,
+    "macro_f1": 0.6228848895535083,
+    "confusion": [
+      [
+        214,
+        79,
+        71
+      ],
+      [
+        103,
+        184,
+        77
+      ],
+      [
+        38,
+        38,
+        288
+      ]
+    ]
+  },
+  "held_out": {
+    "accuracy": 0.6190476190476191,
+    "macro_f1": 0.6061162267509174,
+    "confusion": [
+      [
+        24,
+        12,
+        20
+      ],
+      [
+        18,
+        30,
+        8
+      ],
+      [
+        5,
+        1,
+        50
+      ]
+    ]
+  }
+}

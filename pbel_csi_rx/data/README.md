@@ -1,0 +1,1 @@
+Place the unaltered `LAB_B_rounds1_15.zip` here for evaluation. Raw data are omitted from this source distribution. `capture_csi.py` creates new recordings in `raw/LAB_B`; `live_csi.py` creates prediction logs in `live`. Keep experimental data under team-controlled access.
